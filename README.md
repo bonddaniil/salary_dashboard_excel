@@ -17,7 +17,15 @@ This dashboard can serve as a quick reference for professionals exploring job op
 
 
 ## 🛠 Technologies & Skills
-- **Excel Charts**
-- **Formulas and Functions**
-- **Data Cleaning, Aggregation and Validation** 
-- **Data analysis** 
+- **Excel Charts** - dynamic barcharts and mapchart
+- **Formulas and Functions** - math, logical, statistical, array and lookup functions
+- **Data Cleaning, Aggregation and Validation**
+- **Data analysis** - calculating of main kpi (median salaries, top job platform, job count) and creating interactive charts
+
+## 🚀 Features
+- **Role Median Salaty Chart** – calculates the average salary based on selected parameters such as job title, country, and employment type.  
+- **Top Countries Map** – provides salary insights across different countries, allowing comparison between regions.  
+- **Type of Work Chart** – explores salary levels for various positions including Data Scientist, Data Engineer, Machine Learning Engineer, Analyst, and more.  
+- **Median Salary Box** – compares compensation for different work formats: Full-time, Part-time, Contractor, Internship, and Temporary work.  
+- **Top Job Platform Box** – shows the distribution of job postings across platforms such as Indeed, LinkedIn, ZipRecruiter, Snagajob, and others.
+- **Job Count Box** – shows the distribution of job postings across platforms such as Indeed, LinkedIn, ZipRecruiter, Snagajob, and others. 
