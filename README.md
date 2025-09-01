@@ -5,8 +5,6 @@
 
 ![Alt](assets/salary-dashboard.gif)
 
-<video src="assets/salary-dashboardxlsx.mp4" width="600" autoplay loop muted></video>
-
 The **Salary Dashboard** is an interactive Excel-based tool designed to analyze and compare salaries in the field of Data Science.  
 It provides a calculator where you can explore salary levels depending on multiple factors such as **job title**, **country** and **employment type**.
 
