@@ -14,3 +14,10 @@ It highlights salary differences across roles (Data Scientist, Data Engineer, Ma
 In addition to salary calculations, the dashboard also includes **KPI metrics** (e.g., median salary, number of postings, platform with the best CR of hires, median salary ranges) that provide quick insights into the job market.  
 
 This dashboard can serve as a quick reference for professionals exploring job opportunities, HR specialists analyzing compensation trends, or anyone interested in the **global Data Science job market**.
+
+
+## 🛠 Technologies & Skills
+- **Excel Charts**
+- **Formulas and Functions**
+- **Data Cleaning, Aggregation and Validation** 
+- **Data analysis** 
