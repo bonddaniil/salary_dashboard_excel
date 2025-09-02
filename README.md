@@ -3,7 +3,7 @@
 
 ## 📖 Introduction
 
-![Alt](assets/salary-dashboard.gif)
+![Gif of project](assets/salary-dashboard.gif)
 
 The **Salary Dashboard** is an interactive Excel-based tool designed to analyze and compare salaries in the field of Data Science.  
 It provides a calculator where you can explore salary levels depending on multiple factors such as **job title**, **country** and **employment type**.
@@ -15,6 +15,10 @@ In addition to salary calculations, the dashboard also includes **KPI metrics** 
 
 This dashboard can serve as a quick reference for professionals exploring job opportunities, HR specialists analyzing compensation trends, or anyone interested in the **global Data Science job market**.
 
+## 📺 Example of usage
+
+If you want to get acquainted with the project you can follow this URL ![Mp4 of project](assets/salary-dashboard.mp4)
+
 
 ## 🛠 Technologies & Skills
 - **Excel Charts** - dynamic barcharts and mapchart
@@ -23,9 +27,16 @@ This dashboard can serve as a quick reference for professionals exploring job op
 - **Data analysis** - calculating of main kpi (median salaries, top job platform, job count) and creating interactive charts
 
 ## 🚀 Features
-- **Role Median Salaty Chart** – calculates the average salary based on selected parameters such as job title, country, and employment type.  
-- **Top Countries Map** – provides salary insights across different countries, allowing comparison between regions.  
-- **Type of Work Chart** – explores salary levels for various positions including Data Scientist, Data Engineer, Machine Learning Engineer, Analyst, and more.  
-- **Median Salary Box** – compares compensation for different work formats: Full-time, Part-time, Contractor, Internship, and Temporary work.  
-- **Top Job Platform Box** – shows the distribution of job postings across platforms such as Indeed, LinkedIn, ZipRecruiter, Snagajob, and others.
-- **Job Count Box** – shows the distribution of job postings across platforms such as Indeed, LinkedIn, ZipRecruiter, Snagajob, and others. 
+- **Role Median Salary Chart** – calculates bar chart of the median annual salary in $ based on selected role, country and type of job.
+- **Top Countries Map** – shows the number of job offers in the world depending on selected title and employment type. The darker colour of the country, the more offers are available for that role.
+- **Type of Work Chart** – compares median annual salaries across different types of employment for the selected country and job title. 
+- **Median Salary Box** – highlights  median annual salary in $  of selected title, country and type.
+- **Top Job Platform Box** – shows the most popular job searching platform for matching job title, counytry and vacancy type.
+- **Job Count Box** – shows of hirings matching selected title, country and type. 
+
+## 📊 Data source
+The Dataset and project are part of educational Excel course from Luke Barousse on [YouTube](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=19840s&ab_channel=LukeBarousse). I really appriciate his work and the way he helps people on their proffecional way!
+
+## ✍️ Authors
+Created by Daniil Bondarchuk in 2025.
+Excel for Data Analytics course uploaded in 2024 by Luke Barousse.
