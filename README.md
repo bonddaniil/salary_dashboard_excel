@@ -17,7 +17,7 @@ This dashboard can serve as a quick reference for professionals exploring job op
 
 ## 📺 Example of usage
 
-If you want to get acquainted with the project you can follow this URL ![Salary Dashboard on Youtube](https://youtu.be/s3B7P6yUl3w)
+If you want to get acquainted with the project you can follow this URL [Salary Dashboard on Youtube](https://youtu.be/s3B7P6yUl3w)
 
 
 ## 🛠 Technologies & Skills
