@@ -17,7 +17,7 @@ This dashboard can serve as a quick reference for professionals exploring job op
 
 ## 📺 Example of usage
 
-If you want to get acquainted with the project you can follow this URL ![Mp4 of project](assets/salary-dashboard.mp4)
+If you want to get acquainted with the project you can follow this URL ![Salary Dashboard on Youtube]([assets/salary-dashboard.mp4](https://youtu.be/s3B7P6yUl3w))
 
 
 ## 🛠 Technologies & Skills
@@ -38,5 +38,5 @@ If you want to get acquainted with the project you can follow this URL ![Mp4 of 
 The Dataset and project are part of educational Excel course from Luke Barousse on [YouTube](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=19840s&ab_channel=LukeBarousse). I really appriciate his work and the way he helps people on their proffecional way!
 
 ## ✍️ Authors
-Created by Daniil Bondarchuk in 2025.
-Excel for Data Analytics course uploaded in 2024 by Luke Barousse.
+- Created by **Daniil Bondarchuk** in 2025.
+- Excel for **Data Analytics** course uploaded in 2024 by **Luke Barousse**.
