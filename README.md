@@ -16,7 +16,6 @@ In addition to salary calculations, the dashboard also includes **KPI metrics** 
 This dashboard can serve as a quick reference for professionals exploring job opportunities, HR specialists analyzing compensation trends, or anyone interested in the **global Data Science job market**.
 
 ## 📺 Example of usage
-
 If you want to get acquainted with the project you can follow this URL [Salary Dashboard on Youtube](https://youtu.be/s3B7P6yUl3w)
 
 
@@ -33,6 +32,15 @@ If you want to get acquainted with the project you can follow this URL [Salary D
 - **Median Salary Box** – highlights  median annual salary in $  of selected title, country and type.
 - **Top Job Platform Box** – shows the most popular job searching platform for matching job title, counytry and vacancy type.
 - **Job Count Box** – shows of hirings matching selected title, country and type. 
+
+## 🤖 Instalation and usage
+1. Download or clone this repository:
+   ``` bash
+   git clone https://github.com/bonddaniil/salary_dashboard_excel.git
+2. Open the file Salary_Dashboard.xlsx in MS Excel (2016 or later)
+3. Navigate to Salary_Calculator sheet
+4. Select **Job Title**, **Country** or **Employment Type**
+5. Explore the dashboard!   
 
 ## 📊 Data source
 The Dataset and project are part of educational Excel course from Luke Barousse on [YouTube](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=19840s&ab_channel=LukeBarousse). I really appriciate his work and the way he helps people on their proffecional way!
